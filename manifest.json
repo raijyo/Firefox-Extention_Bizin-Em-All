@@ -52,7 +52,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "bizin-em-all@raijyo.example",
+      "id": "bizin-em-all@local",
       "data_collection_permissions": {
         "required": [
           "none"
