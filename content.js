@@ -28,8 +28,8 @@
   }
 
   function buildFontFaceCss() {
-    const regularFontUrl = getFontUrl("fonts/BIZUDGothic-Regular.ttf");
-    const boldFontUrl = getFontUrl("fonts/BIZUDGothic-Bold.ttf");
+    const regularFontUrl = getFontUrl("fonts/BizinGothic-Regular.ttf");
+    const boldFontUrl = getFontUrl("fonts/BizinGothic-Bold.ttf");
     const rules = [];
 
     if (regularFontUrl) {

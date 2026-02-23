@@ -3,7 +3,7 @@
   "name": "Bizin-Em-All",
   "version": "1.0.3",
   "author": "Bizin Em All",
-  "description": "Force all websites to render with bundled BIZUD Gothic fonts (Firefox Android/desktop).",
+  "description": "Force all websites to render with bundled Bizin Gothic fonts (Firefox Android/desktop).",
   "permissions": [
     "storage"
   ],
@@ -36,8 +36,8 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "fonts/BIZUDGothic-Regular.ttf",
-        "fonts/BIZUDGothic-Bold.ttf"
+        "fonts/BizinGothic-Regular.ttf",
+        "fonts/BizinGothic-Bold.ttf"
       ],
       "matches": [
         "<all_urls>"

@@ -1,6 +1,6 @@
 # Bizin-Em-All (Firefox)
 
-This extension forces page fonts to the bundled `BIZUDGothic` family (with system-font fallback) so it works even if a user device has no custom font installed.
+This extension forces page fonts to the bundled `Bizin Gothic` family (with system-font fallback) so it works even if a user device has no custom font installed.
 
 ## What changed for Android/AMO readiness
 
@@ -16,7 +16,7 @@ This extension forces page fonts to the bundled `BIZUDGothic` family (with syste
 - `content.js`: font override logic
 - `popup.js`: toggle UI logic
 - `popup.html`, `popup.css`: popup UI
-- `fonts/BIZUDGothic-Regular.ttf`, `fonts/BIZUDGothic-Bold.ttf`: bundled fonts
+- `fonts/BizinGothic-Regular.ttf`, `fonts/BizinGothic-Bold.ttf`: bundled fonts
 
 ## AMO / Android review checklist
 
